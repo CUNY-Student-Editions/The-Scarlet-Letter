@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" unique-identifier="pub-identifier" prefix="calibre: https://calibre-ebook.com ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata>
+    <dc:title id="pub-title">The Scarlet Letter</dc:title>
+    <dc:creator id="id">Nathaniel Hawthorne</dc:creator>
+    <dc:identifier>calibre:28</dc:identifier>
+    <dc:identifier>uuid:33a6e054-8c93-4d17-a972-adba723eb8c1</dc:identifier>
+    <dc:identifier id="pub-identifier">randomid-idm46418862556688</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:date>2018-08-21T04:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;&lt;p&gt;First Published&lt;br&gt;&lt;/p&gt;&lt;p&gt;
+  Boston: Ricknor, Reed and Fields, 1850.&lt;br&gt;
+  The Graduate Center, CUNY&lt;/p&gt;&lt;p&gt;Last updated 18 Aug. 2018&lt;/p&gt;&lt;p&gt;This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Produced by Paul L. Hebert&lt;br&gt;&lt;/p&gt;&lt;p&gt;Original cover art is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License by 		MrFurious, 2015.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:subject>Boston (Mass.)</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>Colonial period</dc:subject>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Triangles (Interpersonal relations)</dc:subject>
+    <dc:subject>Illegitimate children</dc:subject>
+    <dc:subject>Women immigrants</dc:subject>
+    <dc:subject>Married women</dc:subject>
+    <dc:subject>Puritans</dc:subject>
+    <dc:subject>Adultery</dc:subject>
+    <dc:subject>Revenge</dc:subject>
+    <dc:subject>Clergy</dc:subject>
+    <meta refines="#pub-title" property="title-type">main</meta>
+    <meta refines="#pub-title" property="file-as">Scarlet Letter, The</meta>
+    <meta id="meta-identifier" property="dcterms:identifier">randomid-idm46418862556688</meta>
+    <meta property="dcterms:title" id="meta-title">The Scarlet Letter</meta>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2018-09-07T14:25:09Z</meta>
+    <meta property="dcterms:creator">Nathaniel Hawthorne</meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="role" refines="#id" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id">Hawthorne, Nathaniel</meta>
+    <meta property="calibre:author_link_map">{"Nathaniel Hawthorne": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+    <item id="titlepage-idm46418862269024" href="../title.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418862235984" href="ch01.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418862048144" href="ch02.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418862039520" href="ch03.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861996288" href="ch04.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861952624" href="ch05.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861919200" href="ch06.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861879664" href="ch07.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861836048" href="ch08.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861800560" href="ch09.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861749184" href="ch10.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861698288" href="ch11.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861646864" href="ch12.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861616528" href="ch13.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861558512" href="ch14.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861526432" href="ch15.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861494416" href="ch16.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861455424" href="ch17.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861422880" href="ch18.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861371888" href="ch19.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861339504" href="ch20.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861298032" href="ch21.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861244208" href="ch22.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861203184" href="ch23.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861152528" href="ch24.html" media-type="application/xhtml+xml"/>
+    <item id="chapter-idm46418861104704" href="ch25.html" media-type="application/xhtml+xml"/>
+    <item href="../nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="epub-css" href="../styles.css" media-type="text/css"/>
+    <item id="cover-image" properties="cover-image" href="cover.jpg" media-type="image/jpeg"/>
+    <item href="CUNY-imprint.jpg" id="id1" media-type="image/jpeg"/>
+    <item href="../copyright.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="../note.html" id="id4" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="toc.ncx">
+    <itemref idref="cover"/>
+    <itemref idref="titlepage-idm46418862269024"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="chapter-idm46418862235984"/>
+    <itemref idref="chapter-idm46418862048144"/>
+    <itemref idref="chapter-idm46418862039520"/>
+    <itemref idref="chapter-idm46418861996288"/>
+    <itemref idref="chapter-idm46418861952624"/>
+    <itemref idref="chapter-idm46418861919200"/>
+    <itemref idref="chapter-idm46418861879664"/>
+    <itemref idref="chapter-idm46418861836048"/>
+    <itemref idref="chapter-idm46418861800560"/>
+    <itemref idref="chapter-idm46418861749184"/>
+    <itemref idref="chapter-idm46418861698288"/>
+    <itemref idref="chapter-idm46418861646864"/>
+    <itemref idref="chapter-idm46418861616528"/>
+    <itemref idref="chapter-idm46418861558512"/>
+    <itemref idref="chapter-idm46418861526432"/>
+    <itemref idref="chapter-idm46418861494416"/>
+    <itemref idref="chapter-idm46418861455424"/>
+    <itemref idref="chapter-idm46418861422880"/>
+    <itemref idref="chapter-idm46418861371888"/>
+    <itemref idref="chapter-idm46418861339504"/>
+    <itemref idref="chapter-idm46418861298032"/>
+    <itemref idref="chapter-idm46418861244208"/>
+    <itemref idref="chapter-idm46418861203184"/>
+    <itemref idref="chapter-idm46418861152528"/>
+    <itemref idref="chapter-idm46418861104704"/>
+  </spine>
+  <guide>
+    <reference href="cover.html" type="cover" title="Cover"/>
+    <reference href="../title.html" type="text"/>
+  </guide>
+</package>

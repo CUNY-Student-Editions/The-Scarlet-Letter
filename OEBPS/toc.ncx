@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="randomid-idm46418862556688" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.31.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Scarlet Letter</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="../title.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="../copyright.html#toc_2"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Note on the Text</text>
+      </navLabel>
+      <content src="../note.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Introduction: The Custom-House</text>
+      </navLabel>
+      <content src="ch01.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>I. The Prison Door</text>
+      </navLabel>
+      <content src="ch02.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>II. The Market-Place</text>
+      </navLabel>
+      <content src="ch03.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>III. The Recognition</text>
+      </navLabel>
+      <content src="ch04.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>IV. The Interview</text>
+      </navLabel>
+      <content src="ch05.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>V. Hester at Her Needle</text>
+      </navLabel>
+      <content src="ch06.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>VI. Pearl</text>
+      </navLabel>
+      <content src="ch07.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>VII. The Governor’s Hall</text>
+      </navLabel>
+      <content src="ch08.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>VIII. The Elf-Child and The Minister</text>
+      </navLabel>
+      <content src="ch09.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>IX. The Leech</text>
+      </navLabel>
+      <content src="ch10.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>X. The Leech and his Patient</text>
+      </navLabel>
+      <content src="ch11.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>XI. The Interior of a Heart</text>
+      </navLabel>
+      <content src="ch12.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>XII. The Minister’s Vigil</text>
+      </navLabel>
+      <content src="ch13.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>XIII. Another View of Hester</text>
+      </navLabel>
+      <content src="ch14.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>XIV. Hester and the Physician</text>
+      </navLabel>
+      <content src="ch15.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>XV. Hester and Pearl</text>
+      </navLabel>
+      <content src="ch16.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>XVI. A Forest Walk</text>
+      </navLabel>
+      <content src="ch17.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>XVII. The Pastor and his Parishioner</text>
+      </navLabel>
+      <content src="ch18.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>XVIII. A Flood of Sunshine</text>
+      </navLabel>
+      <content src="ch19.html"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>XIX. The Child at the Brookside</text>
+      </navLabel>
+      <content src="ch20.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>XX. The Minister in a Maze</text>
+      </navLabel>
+      <content src="ch21.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>XXI. The New England Holiday</text>
+      </navLabel>
+      <content src="ch22.html"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>XXII. The Procession</text>
+      </navLabel>
+      <content src="ch23.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>XXIII. The Revelation of the Scarlet Letter</text>
+      </navLabel>
+      <content src="ch24.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>XXIV. Conclusion</text>
+      </navLabel>
+      <content src="ch25.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
